@@ -23,7 +23,7 @@ Features (Inputs):
   
   Label (Output):
 
-# This project is a Final project for module 7 :Aim to explore new concepts such as supervised learning, feature engineering and more. Using Python and pandas.
+  This project is a Final project for module 7 :Aim to explore new concepts such as supervised learning, feature engineering and more. Using Python and pandas.
 
 #Files Included
 
