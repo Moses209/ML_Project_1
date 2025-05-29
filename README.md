@@ -7,14 +7,21 @@ This repository contains a Jupyter Notebook project focused on data wrangling, m
 
 Features (Inputs):
 
- N – Nitrogen content in the soil (in mg/kg)
- P – Phosphorus content in the soil (in mg/kg)
- K – Potassium content in the soil (in mg/kg)
- temperature – Average temperature in °C
- humidity – Average relative humidity in %
- ph – Soil pH value
- rainfall – Rainfall in mm
- Label (Output):
+  N – Nitrogen content in the soil (in mg/kg)
+  
+  P – Phosphorus content in the soil (in mg/kg)
+  
+  K – Potassium content in the soil (in mg/kg)
+  
+  temperature – Average temperature in °C
+  
+  humidity – Average relative humidity in %
+  
+  ph – Soil pH value
+  
+  rainfall – Rainfall in mm
+  
+  Label (Output):
 
 # This project is a Final project for module 7 :Aim to explore new concepts such as supervised learning, feature engineering and more. Using Python and pandas.
 
