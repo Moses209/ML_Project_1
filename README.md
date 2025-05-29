@@ -1,8 +1,8 @@
-# Project Topic: Crop Recommendation Dataset For Prediction Modeling.
+# Project Topic: Crop Recommendation Dataset For Model Prediction.
   This dataset is structured to predict the most suitable crop to grow based on several agro-climatic parameters. It is typically used in precision agriculture and machine learning applications aimed at supporting farmers, agricultural advisors, and policymakers.
 
 # Project Overview
-This repository contains a Jupyter Notebook project focused on data wrangling, model development, model prediction outcome, and to predict the most suitable crop to grow based on several agro-climatic parameters. It is typically used in precision agriculture and machine learning applications aimed at supporting farmers, agricultural advisors, and policymakers. 
+This repository contains a Jupyter Notebook  project focused on data wrangling, model development and model prediction outcome. The dataset is structured to predict the most suitable crop to grow based on several agro-climatic parameters. It is typically used in precision agriculture and machine learning applications aimed at supporting farmers, agricultural advisors, and policymakers. 
 
 
 Features (Inputs):
@@ -34,10 +34,29 @@ Link for the presentation at the bottom of this file.
 #Technologies Used:
 
 Python 3.x
+
 Jupyter Notebook
+
 pandas
+
 numpy
+
 matplotlib
-Seaborn
+
+KNeighborsClassifier
+
+train_test_split
+
+RandomForestClassifier
+
+LabelEncoder, StandardScaler
+
+accuracy_score, classification_report, confusion_matrix
 
 #Feature Task: Check for the missing values, check for the duplicates, Validate data types, encode categorical target variable. Initial machine learning Model. KNN Modeling, Decision Tree, Random Forest and Logistic regression.
+
+#Insights:  project focused on data wrangling, model development and model prediction outcome.
+# Key Insights: 
+RandomForestClassifier is the best-performing model here — it outperforms the others in accuracy and balances bias-variance trade-off effectively.
+
+Presentation for this project link: https://docs.google.com/presentation/d/1XZ20aTXdFGC0RjnAbuHa7GQ4xiMQmzV-m2zQ9vQZIuk/edit?slide=id.gc6f90357f_0_0#slide=id.gc6f90357f_0_0
