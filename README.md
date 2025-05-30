@@ -23,7 +23,7 @@ Features (Inputs):
   
   Label (Output):
 
-  This project is a Final project for module 7 :Aim to explore new concepts such as supervised learning, feature engineering and more. Using Python and pandas.
+  This project is a Final project for module 7: Aim to explore new concepts such as supervised learning, feature engineering and more. Using Python and pandas.
 
 #Files Included
 
@@ -31,6 +31,7 @@ Crop Recommendation Dataset Project.ipynb: The main notebook containing the data
 README.md: Project documentation and summary.
 Crop Recommendation Dataset.csv: The original dataset.
 Link for the presentation at the bottom of this file.
+
 #Technologies Used:
 
 Python 3.x
